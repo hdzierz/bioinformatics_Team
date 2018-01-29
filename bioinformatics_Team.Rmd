@@ -25,7 +25,7 @@ output: pfrticles::PFR_ioslides
 
 </div>
 
-## Origin
+## Origins
 
 <div class="columns-2">
 
@@ -66,12 +66,13 @@ output: pfrticles::PFR_ioslides
 
 ## Supported Fields 
 
-- Genome Assembly / gene prediction / pan genomes
-- Variant Calling
+- Genome Assembly eukaryotes/prokaryotes
+- Gene prediction
+- Pan genomes
+- Variant Calling (SNPs, Transposons, ...)
 - Metagenomics
 - Small/Micro RNA
-- Gene Expression Analyses
-- Machine Learning
+- Gene Expression Analysis
 - ...
 
 ## Technologies
@@ -79,9 +80,16 @@ output: pfrticles::PFR_ioslides
 - Short read genome assembly (Illumina)
 - Long Read Genome assembly (PacBio, minion)
 - GBS
-- Captcha seq
+- Capture sequencing
 - RNAseq
+- Trinotate
 - Machine learning / neural nets
 - Augustus, BRAKER2
 - ...
 
+
+## Summary
+
+- Large team distributed across the country
+- High diversity of poeple and capabilities
+- 
