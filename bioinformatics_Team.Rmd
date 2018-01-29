@@ -54,16 +54,25 @@ output: pfrticles::PFR_ioslides
 ![](img/species70.png)
 
 
+## Supported Research Areas
+
+- Plant breeding / new cultivars
+- Animal breeding
+- Human gut health
+- Bioprotection
+- Soil sciences
+- ...
 
 
-## Support for Research Areas
+## Supported Fields 
 
-- Genome Assembly / gene prediction / Pan genomes
+- Genome Assembly / gene prediction / pan genomes
 - Variant Calling
 - Metagenomics
 - Small/Micro RNA
 - Gene Expression Analyses
 - Machine Learning
+- ...
 
 ## Technologies
 
@@ -76,100 +85,3 @@ output: pfrticles::PFR_ioslides
 - Augustus, BRAKER2
 - ...
 
-# Slide One | Click here to edit { .slide.. }
-
-## Slide Two | Notice the pipe symbol separates title and subtitle
-
-<div id="slide-two-asciinema"></div>
-<script>
-  asciinema.player.js.CreatePlayer(
-    'slide-two-asciinema',
-    'json/asciinema-hello-world.json',
-    {
-      width: 80,
-      height: 20,
-      theme: 'tango'
-    });
-</script>
-
-## Slide Three {.titled..}
-
-A Subtitle is **not** required. Some thing about **font** sizes:
-
-1. <font size=1>text</font>
-2. <font size=2>text</font>
-3. <font size=3>text</font>
-4. <font size=4>text</font>
-5. <font size=5>text</font>
-6. <font size=6>text</font>
-7. <font size=7>text</font>
-
-# Slide Four {data-background=img/apricot-title.png}
-
-## Slide Five {.titled.. .smaller}
-
-This slide has smaller fonts.
-
-The available font sizes are
-
-- `tiny`
-- `smaller`
-- `larger`
-- `huge`
-
-## Slide Six
-
-This is `tiny`.
-
-## Slide Six point Five
-
-This is `huge`.
-
-## Slide Seven {.larger}
-
-This is `larger` and has code
-
-```{r echo=TRUE, results='hide'}
-Sys.getenv("HOME")
-```
-
-## Slide Eight - two column layout
-
-<div class="columns-2">
-- one
-- two
-- three
-- four
-- five
-- one
-- two
-- three
-- four
-
-![](img/apple-grape-fish-juice-wheat-title.png)
-</div>
-
-## Slide Nine - two column layout {.titled..}
-
-<div class="columns-2">
-![](img/apple-grape-fish-juice-wheat-title.png)
-
-- one
-- two
-- three
-- four
-- five
-- one
-- two
-- three
-- four
-</div>
-
-# {data-background=img/seafood-background.png}
-
-<div class="circle green-3px">
-<div>
-<span class="title">Seafood Technologies</span>
-<span class="subtitle">Maximising value from seafood resources</span>
-<p>New technologies for the sustainable harvest and processing of high value marine products</p></div>
-</div>
